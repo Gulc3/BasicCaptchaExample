@@ -1,0 +1,15 @@
+/Users/gulce/Projects/captcha/captcha/bin/Debug/net6.0/captcha
+/Users/gulce/Projects/captcha/captcha/bin/Debug/net6.0/captcha.deps.json
+/Users/gulce/Projects/captcha/captcha/bin/Debug/net6.0/captcha.runtimeconfig.json
+/Users/gulce/Projects/captcha/captcha/bin/Debug/net6.0/captcha.dll
+/Users/gulce/Projects/captcha/captcha/bin/Debug/net6.0/captcha.pdb
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.csproj.AssemblyReference.cache
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.AssemblyInfoInputs.cache
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.AssemblyInfo.cs
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.csproj.CoreCompileInputs.cache
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.dll
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/refint/captcha.dll
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.pdb
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/captcha.genruntimeconfig.cache
+/Users/gulce/Projects/captcha/captcha/obj/Debug/net6.0/ref/captcha.dll
